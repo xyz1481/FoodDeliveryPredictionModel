@@ -1,5 +1,3 @@
-Here’s your **README** with installation instructions included:  
-
 ---
 
 # 🚀 Delivery Time Prediction Model  
@@ -68,4 +66,3 @@ The model's performance is evaluated using:
 
 ---
 
-Let me know if you want any modifications! 🚀
