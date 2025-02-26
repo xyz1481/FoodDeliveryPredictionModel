@@ -16,13 +16,6 @@ This project predicts food delivery times based on various factors using machine
 - **Programming Language**: Python  
 - **Libraries Used**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 
-## 📂 Project Structure  
-```
-├── DeliveryTime.ipynb   # Jupyter Notebook containing the code
-├── data/                # Directory containing dataset (if applicable)
-└── README.md            # Project documentation
-```
-
 ## 🔧 Installation Instructions  
 
 ### 1️⃣ Clone the Repository  
